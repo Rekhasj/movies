@@ -1,0 +1,11 @@
+GET
+http://localhost:3000/
+###
+
+GET http://localhost:3000/movies/
+###
+
+GET http://localhost:3000/movies/12
+### 
+
+PUT http://localhost:3000/movies/:movieId/
